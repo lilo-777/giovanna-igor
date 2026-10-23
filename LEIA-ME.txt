@@ -1,0 +1,19 @@
+SITE PESSOAL — GIOVANNA & IGOR
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta no VS Code.
+3. Abra index.html com o Live Server.
+4. Mantenha a pasta fotos junto dos arquivos.
+
+ARQUIVOS
+- index.html: textos, nomes, carta e estrutura.
+- style.css: aparência, cores e layout.
+- script.js: animações e galeria.
+- fotos/: fotos do casal.
+
+MÚSICA
+A música "Sem Explicação" toca por um player do YouTube embutido em index.html (procure por youtube-nocookie.com/embed/). Precisa de internet. Para trocar, mude o código depois de /embed/ pelo ID do outro vídeo.
+
+HOSPEDAGEM
+Site estático: não precisa de PHP nem banco de dados. Publique todos os arquivos e a pasta fotos em uma hospedagem estática, mantendo a estrutura das pastas.
